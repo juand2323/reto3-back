@@ -22,7 +22,7 @@ import org.springframework.web.bind.annotation.RestController;
  * @author desaextremo
  */
 @RestController
-@RequestMapping("/api/fragance")
+@RequestMapping("/api/supplements")
 @CrossOrigin("*")
 public class ClotheController {
     @Autowired
